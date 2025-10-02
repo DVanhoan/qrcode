@@ -1,0 +1,8 @@
+{
+  "name": "qrcode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b5b8c438"
+}
