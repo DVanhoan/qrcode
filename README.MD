@@ -39,6 +39,17 @@
    # Build và chạy trên thiết bị/emulator qua Android Studio
    ```
 
+
+## Demo
+1. tạo qr code
+![alt text](image-1.png)
+
+2. quét qr code
+![alt text](image-2.png)
+
+3. Lịch sử điểm danh
+![alt text](image-3.png)
+
 ## Ghi chú
 - Dữ liệu lưu localStorage (có thể chuyển sang SQLite nếu cần).
 - Giao diện tối ưu cho mobile.
